@@ -4,5 +4,6 @@ function doTest(a,b){
 
 
 module.exports = {
+    Controller,
     doTest
 }

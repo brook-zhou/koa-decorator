@@ -1,5 +1,5 @@
 function doTest(a,b){
-    return 
+    return a+b
 }
 
 
